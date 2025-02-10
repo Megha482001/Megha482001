@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Megha Sarkar
 =======================================================================================================================================
 
-Fullstack web and Blockchain Developer
+Fullstack Developer
 --------------------------------------
 I am a Software developer skilled in full-stack and Blockchain development, contributed to DeFi projects at SkyTrade . I specialize in creating robust applications and contributing to innovative projects. Here’s a glimpse of my journey:<br><br>* 🌍  I'm based in Kolkata<br>* ✉️  You can contact me at [sarkarmegha2020@gmail.com]<br>* 🤝  I'm open to collaborating on web2.0 or web3.0 projects.<br>
 
